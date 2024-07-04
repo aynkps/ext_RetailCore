@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mdclass:ExternalDataProcessor xmlns:mdclass="http://g5.1c.ru/v8/dt/metadata/mdclass" uuid="c9adff2a-9709-4b21-8bc8-855a56388cd8">
+  <producedTypes>
+    <objectType typeId="75c94acd-0d19-4a7a-97c6-00f36d3854d8" valueTypeId="7370bb25-b329-44dd-98e6-38542e2d54d3"/>
+  </producedTypes>
+  <name>ДобавлениеБОВЧек</name>
+  <synonym>
+    <key>ru</key>
+    <value>Добавление БОВЧек</value>
+  </synonym>
+  <containedObjects classId="c3831ec8-d8d5-4f93-8a22-f9bfae07327f" objectId="ca5e6fdf-a109-47be-810c-e4381b6b9f06"/>
+  <defaultForm>ExternalDataProcessor.ДобавлениеБОВЧек.Form.Форма</defaultForm>
+  <forms uuid="fd60e4fc-7ac6-4715-9be9-668d6330cb6b">
+    <name>Форма</name>
+    <synonym>
+      <key>ru</key>
+      <value>Форма</value>
+    </synonym>
+    <usePurposes>PersonalComputer</usePurposes>
+    <usePurposes>MobileDevice</usePurposes>
+  </forms>
+</mdclass:ExternalDataProcessor>

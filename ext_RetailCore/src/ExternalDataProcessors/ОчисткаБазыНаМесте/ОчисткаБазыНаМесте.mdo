@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mdclass:ExternalDataProcessor xmlns:mdclass="http://g5.1c.ru/v8/dt/metadata/mdclass" uuid="3bbab7a0-9048-434d-80a6-5a3678fcea13">
+  <producedTypes>
+    <objectType typeId="11ea29dd-e1c5-45e6-8001-71a221fede59" valueTypeId="5229e5fa-66b7-4f7a-b871-641bee8a28b3"/>
+  </producedTypes>
+  <name>ОчисткаБазыНаМесте</name>
+  <synonym>
+    <key>ru</key>
+    <value>Очистка базы на месте</value>
+  </synonym>
+  <containedObjects classId="c3831ec8-d8d5-4f93-8a22-f9bfae07327f" objectId="53b72d0a-038e-4985-9322-4d61e6d8c835"/>
+  <defaultForm>ExternalDataProcessor.ОчисткаБазыНаМесте.Form.Форма</defaultForm>
+  <forms uuid="e46c1429-cee1-465c-963e-28409951e914">
+    <name>Форма</name>
+    <synonym>
+      <key>ru</key>
+      <value>Форма</value>
+    </synonym>
+    <usePurposes>PersonalComputer</usePurposes>
+    <usePurposes>MobileDevice</usePurposes>
+  </forms>
+</mdclass:ExternalDataProcessor>

@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mdclass:ExternalDataProcessor xmlns:mdclass="http://g5.1c.ru/v8/dt/metadata/mdclass" uuid="bf44bbd5-fd38-4531-a845-881358d15a32">
+  <producedTypes>
+    <objectType typeId="3676b454-c5b8-49d1-9ef2-1e0a490ebdd6" valueTypeId="724145ae-46e4-4e76-8d2b-dbd3b66f31e7"/>
+  </producedTypes>
+  <name>оду_УправлениеОбменом</name>
+  <synonym>
+    <key>ru</key>
+    <value>*Управление обменом</value>
+  </synonym>
+  <containedObjects classId="c3831ec8-d8d5-4f93-8a22-f9bfae07327f" objectId="7d8920f8-1a05-4cb9-bab5-bbeb7c1ca093"/>
+  <defaultForm>ExternalDataProcessor.оду_УправлениеОбменом.Form.Форма</defaultForm>
+  <forms uuid="74dc4f82-aedc-466d-be09-240423cc3e02">
+    <name>Форма</name>
+    <synonym>
+      <key>ru</key>
+      <value>Форма</value>
+    </synonym>
+    <usePurposes>PersonalComputer</usePurposes>
+    <usePurposes>MobileDevice</usePurposes>
+  </forms>
+  <forms uuid="f669ab2f-c939-4ed0-92f7-30793b143f46">
+    <name>ФормаСпискаСостоянийОбмена</name>
+    <synonym>
+      <key>ru</key>
+      <value>Форма списка состояний обмена</value>
+    </synonym>
+    <usePurposes>PersonalComputer</usePurposes>
+    <usePurposes>MobileDevice</usePurposes>
+  </forms>
+  <forms uuid="7d07111d-4dee-4b32-ace7-b1716399f7a3">
+    <name>ФормаОбработкиВыделенныхСтрок</name>
+    <synonym>
+      <key>ru</key>
+      <value>Форма обработки выделенных строк</value>
+    </synonym>
+    <usePurposes>PersonalComputer</usePurposes>
+    <usePurposes>MobileDevice</usePurposes>
+  </forms>
+</mdclass:ExternalDataProcessor>

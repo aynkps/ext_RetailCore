@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mdclass:ExternalDataProcessor xmlns:mdclass="http://g5.1c.ru/v8/dt/metadata/mdclass" uuid="46564d4a-f98c-4e60-ba4c-8429be8e17c4">
+  <producedTypes>
+    <objectType typeId="17381bd8-eb0b-4da0-b26b-8705fefcb6f3" valueTypeId="55dd9128-c613-4ce3-82a2-2b5876a023b0"/>
+  </producedTypes>
+  <name>Аян_ШтрихкодыКег</name>
+  <synonym>
+    <key>ru</key>
+    <value>Аян штрихкоды кег</value>
+  </synonym>
+  <containedObjects classId="c3831ec8-d8d5-4f93-8a22-f9bfae07327f" objectId="3daa27d4-b2a7-4b77-b1c6-a93429e1e4ea"/>
+  <defaultForm>ExternalDataProcessor.Аян_ШтрихкодыКег.Form.ФормаЗаписи</defaultForm>
+  <forms uuid="019a89bb-2106-4d6d-b6e2-b9248ad27027">
+    <name>ФормаЗаписи</name>
+    <synonym>
+      <key>ru</key>
+      <value>Форма записи</value>
+    </synonym>
+    <usePurposes>PersonalComputer</usePurposes>
+    <usePurposes>MobileDevice</usePurposes>
+  </forms>
+</mdclass:ExternalDataProcessor>

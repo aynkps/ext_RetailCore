@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mdclass:ExternalDataProcessor xmlns:mdclass="http://g5.1c.ru/v8/dt/metadata/mdclass" uuid="67fb73de-919b-4816-bb4d-629c40bb4a8d">
+  <producedTypes>
+    <objectType typeId="156cc1ea-33de-4dc6-969f-7dff0f2073f0" valueTypeId="0072b9e7-7046-48c1-b68b-310e8dee6b38"/>
+  </producedTypes>
+  <name>пр_Общий</name>
+  <synonym>
+    <key>ru</key>
+    <value>Пр общий</value>
+  </synonym>
+  <containedObjects classId="c3831ec8-d8d5-4f93-8a22-f9bfae07327f" objectId="e51960fd-52d3-4a05-bc54-376c57874ac3"/>
+</mdclass:ExternalDataProcessor>

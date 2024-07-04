@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mdclass:ExternalDataProcessor xmlns:mdclass="http://g5.1c.ru/v8/dt/metadata/mdclass" uuid="7d899bfc-0d37-415b-b739-95645392e47e">
+  <producedTypes>
+    <objectType typeId="a2ce9b21-eaa7-4303-9295-776cbc6c83da" valueTypeId="387573ac-a461-4ce8-b63d-22c12e551f73"/>
+  </producedTypes>
+  <name>Навигатор</name>
+  <synonym>
+    <key>ru</key>
+    <value>Навигатор</value>
+  </synonym>
+  <containedObjects classId="c3831ec8-d8d5-4f93-8a22-f9bfae07327f" objectId="0d687490-3c0d-4d20-bf85-b0484a4204aa"/>
+  <defaultForm>ExternalDataProcessor.Навигатор.Form.Форма</defaultForm>
+  <forms uuid="0bea359c-1021-4ece-ada6-1c7be025e978">
+    <name>Форма</name>
+    <synonym>
+      <key>ru</key>
+      <value>Форма</value>
+    </synonym>
+    <usePurposes>PersonalComputer</usePurposes>
+    <usePurposes>MobileDevice</usePurposes>
+  </forms>
+</mdclass:ExternalDataProcessor>
